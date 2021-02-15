@@ -1,1 +1,0 @@
-# Install-a-custom-list-of-applications-on-Windows-Guest---vRA-8.x-Extensibility
